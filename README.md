@@ -17,3 +17,5 @@ arrai-browse
 ```
 
 Navigate to http://localhost:4000 in the browser, and browse the `.arrai` files in the file system subtree.
+
+To pass args to the script (i.e. populate `//os.args`), pass one or more `args=` query parameters.
